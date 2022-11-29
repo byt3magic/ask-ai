@@ -18,7 +18,7 @@ Open Terminal:
 - Enter your query for OpenAI and wait for response
 
 # Troubleshooting
-Check if there's `api.py` file in the `ask-ai` folder, if not, run `install.sh` again.
+Check if there's an `api.py` file in the `ask-ai` folder, if not, run `install.sh` again.
 
 If there's an error when you execute `main.py`, please try this:
 
