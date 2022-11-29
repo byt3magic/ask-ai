@@ -4,7 +4,7 @@ A small Python tool to query OpenAI API backend.
 # Installation on macOS
 
 Open Terminal:
-- Run `git clone https://github.com/byt3magic/ask-ai`
+- Run `git clone https://github.com/byt3magic/ask-ai.git`
 - Open `ask-ai` folder with `cd ask-ai`
 - Run `chmod a+x install.sh` to make `install.sh` executable
 - Run `sudo ./install.sh`
