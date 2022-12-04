@@ -7,7 +7,7 @@ read answer
 if [ $answer = "y" ]; then
 echo "import os" > api.py
 echo "" >> api.py 
-echo "os.environ["API_KEY"] = \"$apikey\"" >> api.py
+echo "os.environ[\"API_KEY\"] = \"$apikey\"" >> api.py
 pip install openai
 echo "###########"
 echo "Successful."
